@@ -1,4 +1,3 @@
-# School-and-Shopkeeper-application
 # School Management System
 
 ## Overview
@@ -15,7 +14,7 @@ The School Management System is a web application designed to manage student and
   - Add, edit, and delete teacher records.
   - View a list of all teachers.
 
-## Prerequisites
+## Prerequisitesc
 
 - **Web Server:** Apache or similar
 - **PHP:** Version 8.0 or higher
